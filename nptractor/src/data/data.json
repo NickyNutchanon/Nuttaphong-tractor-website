@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "project_description": "CIVIL WORK / DRILLING LOCATION KAMPANGPHET",
+        "employer": "PAE (Thailand) Co., Ltd"
+    },
+    {
+        "id": 2,
+        "project_description": "PHITSANULOKE AIR BASE CONSTRUCTION ROYAL THAI AIRFORCE",
+        "employer": "ROYAL THAI AIRFORCE"
+    },
+    {
+        "id": 3,
+        "project_description": "LAND DEVELOPMENT AT RANONG AND PANGNA",
+        "employer": "DEPT PUBLIC WELFARE"
+    },
+    {
+        "id": 4,
+        "project_description": "CONSTRUCTION OF NKP.- A DRILLING LOCATION AND ACCESS ROAD, KAMPANGPHET",
+        "employer": "THAI SHELL EXPLORATION"
+    },    
+    {
+        "id": 5,
+        "project_description": "EARTH DAM IN UDON THANI AND ROIED",
+        "employer": "ROYAL IRRIGATION DEPT"
+    },
+    {
+        "id": 6,
+        "project_description": "PHITSANULOKE AIR BASE CONSTRUCTION ROYAL THAI AIRFORCE",
+        "employer": "ROYAL THAI AIRFORCE"
+    },    
+    {
+        "id": 7,
+        "project_description": "PHITSANULOKE AIR BASE CONSTRUCTION ROYAL THAI AIRFORCE",
+        "employer": "ROYAL THAI AIRFORCE"
+    }
+]
