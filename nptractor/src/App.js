@@ -7,7 +7,6 @@ import { Home } from './component/Home'
 import { About } from './component/About'
 import { Project } from './component/Project'
 import { History } from './component/History'
-import { Service } from './component/Service'
 import { Contact } from './component/Contact'
 import { ProjectDetails } from './component/ProjectDetails'
 import i18n from "i18next";
@@ -43,7 +42,6 @@ function AppRouter() {
           <Link to="/about/" className="nav-link">{t('About')}</Link>
           <Link to="/history/" className="nav-link">{t('History')}</Link>
           <Link to="/project/" className="nav-link">{t('Project')}</Link>
-          <Link to="/service/" className="nav-link">{t('Service')}</Link>
           <Link to="/contact/" className="nav-link">{t('Contact')}</Link>
         </Nav>
         <Nav>
@@ -55,7 +53,6 @@ function AppRouter() {
       <Route path="/about/" component={About} />
       <Route path="/history/" component={History} />
       <Route path="/Project/" exact component={Project} />
-      <Route path="/Service/" component={Service} />
       <Route path="/Contact/" component={Contact} />
       <Route path={`/Project/:id`} component={ProjectDetails} />
     </Router>

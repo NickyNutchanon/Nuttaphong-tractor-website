@@ -77,15 +77,6 @@ export function Home() {
             </Card>
             <Card>
                 <Card.Body>
-                    <Card.Title>Service</Card.Title>
-                    <Card.Text>
-                        The service we provide
-                    </Card.Text>
-                    <Button href="service">Learn more</Button>
-                </Card.Body>
-            </Card>
-            <Card>
-                <Card.Body>
                     <Card.Title>Contact</Card.Title>
                     <Card.Text>
                         How to contact us

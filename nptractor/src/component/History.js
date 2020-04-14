@@ -46,7 +46,7 @@ export function History() {
     <h3 className="vertical-timeline-element-title">Web Designer</h3>
     <h4 className="vertical-timeline-element-subtitle">Los Angeles, CA</h4>
     <p>
-      User Experience, Visual Design
+      User Experience, Visual 
     </p>
   </VerticalTimelineElement>
   <VerticalTimelineElement
